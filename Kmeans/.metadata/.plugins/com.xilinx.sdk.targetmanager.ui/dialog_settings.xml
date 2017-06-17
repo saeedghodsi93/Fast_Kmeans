@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="C:\Users\MicroLab5\Desktop\6\29.2\31.1_hw_platform\system_bd.bmm" key="31.1_hw_platform-bmmFile"/>
+	<item value="bootloop" key="31.1_hw_platform-microblaze_0-initElf"/>
+	<item value="C:\Users\MicroLab5\Desktop\6\29.2\31.1_hw_platform\system.bit" key="31.1_hw_platform-bitFile"/>
+</section>

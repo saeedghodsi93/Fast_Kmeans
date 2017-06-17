@@ -1,0 +1,66 @@
+--------------------------------------------------------------------------------------
+Timing Analyzer Summary
+--------------------------------------------------------------------------------------
+
+Type           : Worst-case tsu
+Slack          : N/A
+Required Time  : None
+Actual Time    : 6.430 ns
+From           : FSL_Rst
+To             : dim[11]
+From Clock     : --
+To Clock       : FSL_Clk
+Failed Paths   : 0
+
+Type           : Worst-case tco
+Slack          : N/A
+Required Time  : None
+Actual Time    : 7.819 ns
+From           : state[2]
+To             : FSL_S_Read
+From Clock     : FSL_Clk
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case tpd
+Slack          : N/A
+Required Time  : None
+Actual Time    : 9.864 ns
+From           : FSL_S_Exists
+To             : FSL_S_Read
+From Clock     : --
+To Clock       : --
+Failed Paths   : 0
+
+Type           : Worst-case th
+Slack          : N/A
+Required Time  : None
+Actual Time    : -2.944 ns
+From           : FSL_S_Data[2]
+To             : dim[2]
+From Clock     : --
+To Clock       : FSL_Clk
+Failed Paths   : 0
+
+Type           : Clock Setup: 'FSL_Clk'
+Slack          : N/A
+Required Time  : None
+Actual Time    : 185.05 MHz ( period = 5.404 ns )
+From           : nr_of_centers[9]
+To             : nr_of_reads[5]
+From Clock     : FSL_Clk
+To Clock       : FSL_Clk
+Failed Paths   : 0
+
+Type           : Total number of failed paths
+Slack          : 
+Required Time  : 
+Actual Time    : 
+From           : 
+To             : 
+From Clock     : 
+To Clock       : 
+Failed Paths   : 0
+
+--------------------------------------------------------------------------------------
+

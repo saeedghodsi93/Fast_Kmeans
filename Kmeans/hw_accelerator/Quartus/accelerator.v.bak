@@ -1,0 +1,6 @@
+module accelerator(clock, reset, 
+				start, ack, stb, dim,
+				input_address, input_a_data, input_b_data, output_data);
+input 		clock, reset;
+
+endmodule

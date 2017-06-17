@@ -1,0 +1,14 @@
+#Wed Jan 16 22:55:08 IRST 2002
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:Stack-size=10240000
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:.sdata2=mcb_ddr2_S0_AXI_BASEADDR
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:.text=mcb_ddr2_S0_AXI_BASEADDR
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:.rodata=mcb_ddr2_S0_AXI_BASEADDR
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:.sbss2=mcb_ddr2_S0_AXI_BASEADDR
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:Heap-size=10240000
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:.bss=mcb_ddr2_S0_AXI_BASEADDR
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:.sdata=mcb_ddr2_S0_AXI_BASEADDR
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:.sbss=mcb_ddr2_S0_AXI_BASEADDR
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:Heap=mcb_ddr2_S0_AXI_BASEADDR
+eclipse.preferences.version=1
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:.data=mcb_ddr2_S0_AXI_BASEADDR
+com.xilinx.sdk.linkgen.prefs.hello_world_0\:Stack=mcb_ddr2_S0_AXI_BASEADDR
